@@ -1,0 +1,13 @@
+﻿namespace CozaStore.Models
+{
+    public class AdminMailViewModel
+    {
+        public string ReceiverMail { get; set; }
+
+        public string Subject { get; set; }
+
+        public string Message { get; set; }
+
+        public string DiscountCupon { get; set; }
+    }
+}
