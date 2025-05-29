@@ -1,12 +1,19 @@
-### 🎓 Merhaba! M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde, sevgili eğitmenim Murat Yücedağ hocamın rehberliğinde geliştirdiğim MongoDB ile Modern E-Ticaret Uygulaması projemi sizlerle paylaşmaktan mutluluk duyuyorum! 🚀 Bu proje, ASP.NET Core MVC mimarisi ve NoSQL veritabanı MongoDB kullanarak, dinamik, kullanıcı dostu ve yönetilebilir bir alışveriş platformu sunuyor.
+### 🎓 Merhaba! M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde, sevgili eğitmenim Murat Yücedağ hocamın rehberliğinde geliştirdiğim MongoDB ile Modern E-Ticaret Uygulaması projemi sizlerle paylaşmaktan mutluluk duyuyorum! 
+🚀 Bu proje, ASP.NET Core MVC mimarisi ve NoSQL veritabanı MongoDB kullanarak, dinamik, kullanıcı dostu ve yönetilebilir bir alışveriş platformu sunuyor.
 
 ## 🛠️ Kullandığım Teknolojiler
 ⚙️ ASP.NET Core MVC – Modern, güçlü web çatısı
+
 🍃 MongoDB – Esnek ve ölçeklenebilir NoSQL veritabanı
+
 📧 SMTP (Gmail App Password) – Otomatik e-posta bildirim sistemi
+
 🎨 Bootstrap 5 & JavaScript – Responsive ve etkileşimli kullanıcı arayüzü
+
 🧩 AutoMapper & DTO Pattern – Katmanlı mimari ve veri transferi
+
 🔄 Async/Await – Performanslı asenkron veri işlemleri
+
 🧱 Tek Katmanlı Mimari – Yönetimi kolay, sade yapı
 
 ## 📋 Proje Özellikleri
