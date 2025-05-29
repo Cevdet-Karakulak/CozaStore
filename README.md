@@ -39,14 +39,20 @@ Gmail SMTP üzerinden güvenli gönderim
 
 ## 🗃️ MongoDB Veri Modeli
 📦 Products: Ürün bilgileri 
+
 📂 Categories: Ürün kategorileri
+
 🎞️ Sliders: Kampanya görselleri
+
 🛣️ ProductsImage: Ürün resimleri
 
 ## 🚀 Proje Sonuçları
 Bu proje sayesinde:
+
 ✨ MongoDB’nin esnek veri yapısını kullanmayı,
+
 ✨ ASP.NET Core MVC ile ölçeklenebilir uygulama geliştirmeyi,
+
 ✨ Asenkron programlama ve servis katmanlarıyla mimari tasarımı deneyimledim.
 
 🙏 Bu değerli süreçte bilgi ve desteğiyle yol gösteren Murat Yücedağ hocama teşekkür ederim. Yazılım yolculuğum yeni projelerle devam ediyor! 💪
@@ -75,6 +81,7 @@ Bu proje sayesinde:
 
 ![Image](https://github.com/user-attachments/assets/b3d03fbc-e818-451c-b0ed-9fd256c1b478)
 
+![Image](https://github.com/user-attachments/assets/eaaa8f1e-bf1e-455f-901f-461cfd663153)
+
 ![Image](https://github.com/user-attachments/assets/6e6b53bf-08b5-49ec-b035-ee0e9d76d8fc)
 
-![Image](https://github.com/user-attachments/assets/eaaa8f1e-bf1e-455f-901f-461cfd663153)
