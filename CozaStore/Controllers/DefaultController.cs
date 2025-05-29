@@ -39,10 +39,31 @@ namespace CozaStore.Controllers
         {
             model.Subject = "Coza Store | Haber Bülteni Aboneliğiniz Onaylandı";
 
-            var discountRate = "COZA20";
-            model.DiscountCupon = discountRate;
+            var discountCupon = "X9L2K7MB";
+            var discountRate = 25;
 
-            model.Message = $"Merhaba,\n\nCoza Store'un özel kampanyalarından ve en yeni ürünlerinden haberdar olmanız için haber bültenimize başarıyla abone oldunuz.\n\n🎁 Size özel bir indirim kuponumuz var!\n\nKupon Kodu: {model.DiscountCupon}\nİndirim: %20\nGeçerlilik: Tüm ürünlerde\n\nKuponunuzu hemen kullanarak alışverişin keyfini çıkarın! 👉 https://www.cozastore.com\n\nEğer herhangi bir sorunuz varsa, bizimle iletişime geçmekten çekinmeyin.\n\nKeyifli alışverişler dileriz!\n\nSevgilerle,\nCoza Store Ekibi";
+            model.DiscountCupon = discountCupon;
+
+            model.Message =
+            $@"Merhaba,
+
+            Coza Store'un özel kampanyalarından ve en yeni ürünlerinden haberdar olmanız için haber bültenimize başarıyla abone oldunuz.
+
+            🎁 Size özel bir indirim kuponumuz var!
+
+            Kupon Kodu: {model.DiscountCupon}
+            İndirim: %{discountRate}
+            Geçerlilik: Tüm ürünlerde geçerlidir
+
+            Kuponunuzu hemen kullanarak alışverişin keyfini çıkarın! 👉 https://www.cozastore.com
+
+            Eğer herhangi bir sorunuz varsa, bizimle iletişime geçmekten çekinmeyin.
+
+            Keyifli alışverişler dileriz!
+
+            Sevgilerle,  
+            Coza Store Ekibi";
+
 
             MimeMessage mimeMessage = new MimeMessage();
             MailboxAddress mailboxAddressFrom = new MailboxAddress("Coza Store Admin", "karakulakcevdet@gmail.com");
